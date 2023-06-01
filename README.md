@@ -1,1 +1,1 @@
-# Image-Caption-Generation
+# Image-Caption-Generation using ViT and GPT2
